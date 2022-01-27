@@ -1,1 +1,1 @@
-# BrainDance
+# brain-dance-mint-app
